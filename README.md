@@ -21,7 +21,7 @@ const JandOliveira = {
         },
         backEnd: {
             js: ["node"],
-             php: ["laravel", "yii2", "mysql"]
+             php: ["laravel", "yii2"]
              c++: [""]
         },
         databases: ["mongo", "MySql", "sqlite"],
