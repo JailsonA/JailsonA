@@ -22,11 +22,11 @@ const JandOliveira = {
         backEnd: {
             js: ["node"],
              php: ["laravel", "yii2"]
-             c++: [""]
+             c#: [".Net"]
         },
-        databases: ["mongo", "MySql", "sqlite"],
+        databases: ["SQLSERVER", "MySql", "sqlite"],
   ]
- challenge: "I am doing the #100DaysOfCode challenge focused on react and JavaScrypt"
+ challenge: "I am doing the #100DaysOfCode challenge focused on react JavaScrypt & C# .Net "
 }
 ```
 
