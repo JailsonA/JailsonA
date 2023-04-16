@@ -26,29 +26,26 @@ const JandOliveira = {
         },
         databases: ["SQLserver", "MySql", "SQlite"],
   ]
- challenge: "I am doing the #100DaysOfCode challenge focused on react JavaScrypt & C# Web ASPNET CORE using .NET framework "
+ challenge: "I am doing the challenge focused on react JavaScrypt & C# Web ASPNET CORE"
 }
 ```
-
+<br><br>
 
 ## ⬛️ GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=JailsonA&theme=radical&hide_border=true&include_all_commits=false&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=JailsonA&theme=radical&hide_border=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JailsonA&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 <a href="http://www.github.com/JailsonA"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=JailsonA&bg_color=1c1917&color=ffffff&line=0cd0cd&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><br><br>
 
-### Languages
- 
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![Html5](https://img.shields.io/badge/-html5-000?&logo=html5)
-![Css3](https://img.shields.io/badge/-css3-000?&logo=css3)
 
-### Technologies
+## ⬛️  Skills
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://www.javatpoint.com/c-sharp-tutorial" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/256/c-sharp-logo.png" width="40" height="40" alt="Figma" /></a>
+<a href="https://dotnet.microsoft.com/en-us/learn" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/external-those-icons-lineal-color-those-icons/256/external-Dot-Net-social-media-those-icons-lineal-color-those-icons.png" width="45" height="45" alt="Figma" /></a>
+</p><br>
 
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
+
 
 
 
