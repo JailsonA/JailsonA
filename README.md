@@ -20,25 +20,20 @@ const JandOliveira = {
             html: ["all"]
         },
         backEnd: {
-            js: ["node"],
-             php: ["laravel", "yii2"]
+            javascript: ["node"],
+             php: ["laravel", "yii2"],
              c#: [".Net"]
         },
-        databases: ["SQLSERVER", "MySql", "sqlite"],
+        databases: ["SQLserver", "MySql", "SQlite"],
   ]
- challenge: "I am doing the #100DaysOfCode challenge focused on react JavaScrypt & C# .Net "
+ challenge: "I am doing the #100DaysOfCode challenge focused on react JavaScrypt & C# Web ASPNET CORE using .NET framework "
 }
 ```
 
 
-<h2>👀 Stats</h2>
-
-<div>  
-  <p align="center">
-  <b><em>GitHub Stats:</em></b> <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JailsonA" alt="GitHub Stats" /> <br/><br/>
-  
-</div>
+## ⬛️ GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=JailsonA&theme=radical&hide_border=true&include_all_commits=false&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=JailsonA&theme=radical&hide_border=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JailsonA&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+<a href="http://www.github.com/JailsonA"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=JailsonA&bg_color=1c1917&color=ffffff&line=0cd0cd&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><br><br>
 
 ### Languages
  
